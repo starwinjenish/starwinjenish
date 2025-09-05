@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 🎓 I’m a fresher passionate about **Data Analytics, AI, and Web Development**
-- 🌱 Currently learning **DSA & Machine Learning**
+- 🌱 Currently learning **DSA & Data Analytics**
 - 💡 I building projects to improve my skills
 - 💬 Ask me about **Python, SQL, Web Development, and UI/UX Design**
 - 📫 Reach me at: **starwinjenish0306@gmail.com**
